@@ -1,7 +1,7 @@
 # Leetcode-Practice
 Leetcode  Algorithm Exercise
 
-LeetCode Name：紫薯叔
+LeetCode Name：紫薯叔(PurpleTomato Uncle, PT Uncle)
 
 
  ______________________________________
@@ -12,5 +12,4 @@ LeetCode Name：紫薯叔
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
 
