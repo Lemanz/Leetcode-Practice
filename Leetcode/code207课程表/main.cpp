@@ -1,9 +1,9 @@
 /*
  * @Description: 课程表
- * @Autor: zsl
+ * @Autor: PT Uncle 紫薯叔
  * @Date: 2024-04-10 10:54:06
  * @LastEditors: zsl
- * @LastEditTime: 2024-04-10 13:35:37
+ * @LastEditTime: 2024-04-10 13:41:45
  */
  #include <iostream>
  #include <vector>

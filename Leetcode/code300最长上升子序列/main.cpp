@@ -1,9 +1,9 @@
 /*
  * @Description: Leetcode300-最长递增子序列
- * @Autor: zsl
+ * @Autor: PT Uncle 紫薯叔
  * @Date: 2024-04-09 16:30:57
  * @LastEditors: zsl
- * @LastEditTime: 2024-04-09 17:55:54
+ * @LastEditTime: 2024-04-10 13:42:28
  */
 #include <iostream>
 #include <vector>
